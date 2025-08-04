@@ -3,6 +3,7 @@ KiboUtils is a Re-implementation of the GNU core utils used in linux the project
 LIST OF GNU core utilsbasename
 
 cat<--------------- documentation and Code in progress 
+Usage:Kcat
 
 
 chcon 💡 SELinux-specific
